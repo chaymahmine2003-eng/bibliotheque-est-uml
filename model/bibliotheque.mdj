@@ -293,8 +293,8 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 720,
-											"top": -96,
+											"left": 480,
+											"top": 80,
 											"height": 13
 										},
 										{
@@ -305,8 +305,8 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 469,
-											"top": 327,
+											"left": 349,
+											"top": 415,
 											"width": 71,
 											"height": 13,
 											"text": "Etudiant"
@@ -320,8 +320,8 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 720,
-											"top": -96,
+											"left": 480,
+											"top": 80,
 											"width": 73.67724609375,
 											"height": 13,
 											"text": "(from Model)"
@@ -335,16 +335,16 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 720,
-											"top": -96,
+											"left": 480,
+											"top": 80,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 464,
-									"top": 320,
+									"left": 344,
+									"top": 408,
 									"width": 81,
 									"height": 25,
 									"stereotypeLabel": {
@@ -381,8 +381,8 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 469,
-											"top": 350,
+											"left": 349,
+											"top": 438,
 											"width": 71,
 											"height": 13,
 											"text": "-cne: String",
@@ -391,8 +391,8 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 464,
-									"top": 345,
+									"left": 344,
+									"top": 433,
 									"width": 81,
 									"height": 23
 								},
@@ -407,8 +407,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 464,
-									"top": 368,
+									"left": 344,
+									"top": 456,
 									"width": 81,
 									"height": 10
 								},
@@ -424,8 +424,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 360,
-									"top": -48,
+									"left": 240,
+									"top": 40,
 									"width": 10,
 									"height": 10
 								},
@@ -441,8 +441,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 360,
-									"top": -48,
+									"left": 240,
+									"top": 40,
 									"width": 10,
 									"height": 10
 								}
@@ -450,8 +450,8 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
-							"left": 464,
-							"top": 320,
+							"left": 344,
+							"top": 408,
 							"width": 80,
 							"height": 58,
 							"nameCompartment": {
@@ -701,6 +701,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 672,
+											"top": 304,
 											"height": 13
 										},
 										{
@@ -712,7 +713,7 @@
 											"font": "Arial;13;1",
 											"parentStyle": true,
 											"left": 485,
-											"top": 215,
+											"top": 367,
 											"width": 150.22705078125,
 											"height": 13,
 											"text": "Livre"
@@ -727,6 +728,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 672,
+											"top": 304,
 											"width": 73.67724609375,
 											"height": 13,
 											"text": "(from Model)"
@@ -741,6 +743,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 672,
+											"top": 304,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
@@ -748,7 +751,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 480,
-									"top": 208,
+									"top": 360,
 									"width": 160.22705078125,
 									"height": 25,
 									"stereotypeLabel": {
@@ -786,7 +789,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 485,
-											"top": 238,
+											"top": 390,
 											"width": 150.22705078125,
 											"height": 13,
 											"text": "-isbn: String",
@@ -804,7 +807,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 485,
-											"top": 253,
+											"top": 405,
 											"width": 150.22705078125,
 											"height": 13,
 											"text": "-isbn: string",
@@ -814,7 +817,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 480,
-									"top": 233,
+									"top": 385,
 									"width": 160.22705078125,
 									"height": 38
 								},
@@ -840,7 +843,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 485,
-											"top": 276,
+											"top": 428,
 											"width": 150.22705078125,
 											"height": 13,
 											"text": "+estDisponible(): Boolean",
@@ -850,7 +853,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 480,
-									"top": 271,
+									"top": 423,
 									"width": 160.22705078125,
 									"height": 23
 								},
@@ -867,6 +870,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 336,
+									"top": 152,
 									"width": 10,
 									"height": 10
 								},
@@ -883,6 +887,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 336,
+									"top": 152,
 									"width": 10,
 									"height": 10
 								}
@@ -891,7 +896,7 @@
 							"parentStyle": false,
 							"containerChangeable": true,
 							"left": 480,
-							"top": 208,
+							"top": 360,
 							"width": 159.22705078125,
 							"height": 86,
 							"nameCompartment": {
